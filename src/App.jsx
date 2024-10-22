@@ -20,8 +20,11 @@ const addToBookMark=(blog)=>{
  setBookMark(newBookMark)
 }
 
-const addReadingTime=(readintime)=>{
+const addReadingTime=(readintime,id)=>{
   setReadTime(readTime+readintime)
+
+  const reaminingBookMark= bookMarks.filter(bookMark=>bookMark.id !== id)
+  setBookMark(reaminingBookMark)
 }
   return (
     <>

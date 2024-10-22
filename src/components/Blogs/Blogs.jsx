@@ -6,7 +6,6 @@ import Blog from "../Singleblog/Blog";
 const Blogs = ({addToBookMark,addReadingTime}) => {
 
     const [blogs,setBlogs]=useState([])
-    console.log(blogs)
     useEffect(()=>{
         fetch(`blogs.json`)
         .then(res=>res.json())
