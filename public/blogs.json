@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/YcHh15y/cover-blogs.jpg",
+      "title": "The Future of AI",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co.com/YcHh15y/cover-blogs.jpg",
+      "posted_date": "2024-10-20",
+      "reading_time": "7 ",
+      "hashtags": ["#AI", "#Technology", "#Future"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/YcHh15y/cover-blogs.jpg",
+      "title": "Mastering Python",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/YcHh15y/cover-blogs.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": "5",
+      "hashtags": ["#Python", "#Programming", "#Coding"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/YcHh15y/cover-blogs.jpg",
+      "title": "Healthy Living in a Digital World",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co.com/YcHh15y/cover-blogs.jpg",
+      "posted_date": "2024-08-30",
+      "reading_time": "8 ",
+      "hashtags": ["#Health", "#Lifestyle", "#DigitalWellness"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/YcHh15y/cover-blogs.jpg",
+      "title": "Top 10 Travel Destinations",
+      "author": "David Lee",
+      "author_img": "https://i.ibb.co.com/YcHh15y/cover-blogs.jpg",
+      "posted_date": "2024-07-25",
+      "reading_time": "6 ",
+      "hashtags": ["#Travel", "#Adventure", "#Wanderlust"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/YcHh15y/cover-blogs.jpg",
+      "title": "Building Sustainable Cities",
+      "author": "Sarah Williams",
+      "author_img": "https://i.ibb.co.com/YcHh15y/cover-blogs.jpg",
+      "posted_date": "2024-06-18",
+      "reading_time": "9 ",
+      "hashtags": ["#Sustainability", "#Cities", "#UrbanPlanning"]
+    }
+  ]
+  
